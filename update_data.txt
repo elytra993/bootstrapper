@@ -1,0 +1,7 @@
+Essence.exe | D41D8CD98F00B204E9800998ECF8427E
+SomeOther.dll | 5D41402ABC4B2A76B9719D911017C592
+
+||||
+
+https://example.com/files/Essence.zip | C:\Essence\Essence.zip
+https://example.com/files/SomeOther.dll | C:\Essence\SomeOther.dll
