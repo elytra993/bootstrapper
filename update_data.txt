@@ -1,4 +1,4 @@
 Essence.exe | D41D8CD98F00B204E9800998ECF8427E
 ||||
 
-https://example.com/files/Essence.zip | C:\Essence\Essence.zip
+https://codeload.github.com/elytra993/Essence/zip/refs/heads/main | C:\Essence\Essence.zip
